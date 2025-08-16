@@ -139,13 +139,6 @@ You can deploy this app to:
 
 ---
 
-## 🙌 Credits
-
-Created by [Vetrivel Ravi](https://youtube.com/@vetrivelravi)  
-YouTube: [Vetrivel Ravi](https://youtube.com/@vetrivelravi)
-
----
-
 ## 📄 License
 
 MIT License
